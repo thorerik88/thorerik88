@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I'm currently a student at Noroff (Front End) 
+- 👯 I'm looking to collaborate on an open source project
+
 <!--
 **thorerik88/thorerik88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
