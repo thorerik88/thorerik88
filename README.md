@@ -10,7 +10,7 @@ So far I haven't worked with others, so I think that's the clever ting to do.
 - 🌱 I'm currently a student at Noroff (Front End) 
 - 👯 I'm looking to collaborate on an open source project
 
-
+Here's my portfolio page: https://www.thor-erik.no/
 
 <!--
 **thorerik88/thorerik88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
