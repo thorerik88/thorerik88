@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Thor-Erik, a front end freelance developer 👨‍💻 working remotely since 2022🚀</div>  
+### <div>I'm Thor-Erik, a front end freelance developer 👨‍💻 working remotely since 2022🚀</div>  
   
 
 - 🔭 I’m currently working on Raspberry Pi Home Automation project   
